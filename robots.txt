@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://skitterix.github.io/WebGL-Fluid-Simulation/sitemap.xml
